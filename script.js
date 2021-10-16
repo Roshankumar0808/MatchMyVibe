@@ -18,7 +18,7 @@ let songs = [
     {songName: "WHY NOT - Talha Anjum", filePath: "songs/6.mp3", coverPath: "covers/6.png"},
     {songName: "LAGA REH - Talha Anjum", filePath: "songs/7.mp3", coverPath: "covers/10.png"},
     {songName: "MERE SAMNE WALI KHIDKI MEIN - Ashish Patil", filePath: "songs/8.mp3", coverPath: "covers/7.png"},
-    {songName: "YES SIR - Rarin", filePath: "songs/9.mp3", coverPath: "covers/8.png"},
+    {songName: "YES SIR - Rarin", filePath: "songs/9.mp3", coverPath: "covers/9.png"},
     {songName: "KHILONA - Devender Ahlawat", filePath: "songs/10.mp3", coverPath: "covers/9.png"},
     {songName: "JINGLE BELL - Yo Yo Honey Singh", filePath: "songs/11.mp3", coverPath: "covers/4.png"},
     {songName: "PEACHES - Justin Bieber", filePath: "songs/12.mp3", coverPath: "covers/5.png"},
