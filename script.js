@@ -13,13 +13,17 @@ let songs = [
     {songName: "SO HIGH - Sidhu Moose Wala", filePath: "songs/1.mp3", coverPath: "covers/1.png"},
     {songName: "SAME BEEF - Sidhu Moose Wala ", filePath: "songs/2.mp3", coverPath: "covers/2.png"},
     {songName: "BHOLENATH - Kaka WRLD ", filePath: "songs/3.mp3", coverPath: "covers/3.png"},
-    {songName: "JINGLE BELL - Yo Yo Honey Singh", filePath: "songs/4.mp3", coverPath: "covers/4.png"},
-    {songName: "PEACHES - Justin Bieber", filePath: "songs/5.mp3", coverPath: "covers/5.png"},
-    {songName: "MANN BHARRYA - B Praak", filePath: "songs/2.mp3", coverPath: "covers/6.png"},
-    {songName: "RATTA LAMBIYAN - Jubin Nautiyal, Tanishk Bagchi", filePath: "songs/7.mp3", coverPath: "covers/10.png"},
+    {songName: "KHITAAB - Talha Anjum", filePath: "songs/4.mp3", coverPath: "covers/4.png"},
+    {songName: "AFSANNAY - Talha Anjum", filePath: "songs/5.mp3", coverPath: "covers/5.png"},
+    {songName: "WHY NOT - Talha Anjum", filePath: "songs/6.mp3", coverPath: "covers/6.png"},
+    {songName: "LAGA REH - Talha Anjum", filePath: "songs/7.mp3", coverPath: "covers/10.png"},
     {songName: "MERE SAMNE WALI KHIDKI MEIN - Ashish Patil", filePath: "songs/8.mp3", coverPath: "covers/7.png"},
     {songName: "YES SIR - Rarin", filePath: "songs/9.mp3", coverPath: "covers/8.png"},
     {songName: "KHILONA - Devender Ahlawat", filePath: "songs/10.mp3", coverPath: "covers/9.png"},
+    {songName: "JINGLE BELL - Yo Yo Honey Singh", filePath: "songs/11.mp3", coverPath: "covers/4.png"},
+    {songName: "PEACHES - Justin Bieber", filePath: "songs/12.mp3", coverPath: "covers/5.png"},
+    {songName: "MANN BHARRYA - B Praak", filePath: "songs/13.mp3", coverPath: "covers/6.png"},
+    {songName: "RATTA LAMBIYAN - Jubin Nautiyal, Tanishk Bagchi", filePath: "songs/14.mp3", coverPath: "covers/10.png"},
 ]
 
 songItems.forEach((element, i)=>{ 
